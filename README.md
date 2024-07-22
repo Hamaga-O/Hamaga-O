@@ -1,4 +1,11 @@
 ## Hi there 👋
+My name is Oji (some call me OJ), welcome to my github!
+
+### About Me
+
+Here's where I track my projects and contributions 
+
+
 
 <!--
 **Hamaga-O/Hamaga-O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
